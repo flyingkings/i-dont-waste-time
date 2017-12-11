@@ -3,23 +3,24 @@
    b. Battles are Team vs. Team unless they are out of office. Remaining team member can take extra shots to compensate.
 
 2.Scoring
-   a. Miss Fortune: Once per fight, each player can predict if an opponent will miss a shot (can't call on last shot). If they miss, the opponent loses their next shot. If they make it, it's worth 2 points instead of 1. Can't call "miss" on the same player in a fight.
+   a. Lightswitch - Last shot lightswitch worth 3. Once per person per fight.
    b. Punished if you lose to a PERFECT or artificial perfect from at least one opponent.
 
 3.Challenges
    a. Each team has 1 daily forced challenge.
    b. You don’t have to accept after the 2nd daily challenge, but you can.
-   c. Max 3 Dragon Ball(s) offered per fight
+   c. Graveyard challenges (work like they used to).
 
-4.Usable if alive, each player starts each week with:
+4.Each player starts each week with:
    a. 2 Saves – Works like Rolando’s.
-   b. 1 KS – Save that can kill. Optionally call “Kill Steal” to take the rewards of winning the fight from the rightful winner. Teams can chain KS’s.
- 
+   b. 1 KS – If alive, save that can kill. Optionally call “Kill Steal” to take the rewards of winning the fight from the rightful winner. Teams can chain KS’s.
+   c. 0.5 Senzu Bean - Teammates use 1 Senzu to revive and/or Senzu Bean challenge.
+
 5.Win Condition: Tournament of Power
-   a. All players participate as single players (if players will miss work for the rest of the week, teammates get an "extra life").
+   a. All players participate as single players.
    b. Free for all challenges
    c. Saves/KS are legal. (Spend 3 saves to do a 1v2)
    d. Victory - At least one member of the “Lead” team remains, everyone else is knocked out
-   e. Defeat – The “Lead” team is knocked out. The remaining players fight until there are 2 players remaining, and award 1 Dragon Ball to each player. (If there is 1 player left their team gets both).
+   e. Defeat – The “Lead” team is knocked out. The remaining players fight until there are 2 players remaining, and award 1 Dragon Ball to each player.
 
 6. Rules can change at the start of the week.
